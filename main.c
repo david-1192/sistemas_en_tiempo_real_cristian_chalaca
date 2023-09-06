@@ -50,7 +50,7 @@ void app_main(void)
             }
         }
     
-        printf("Led Level: %u\n", led_level);
+        printf("LED Level: %u\n", led_level);
     }
 }
 
